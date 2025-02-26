@@ -18,4 +18,4 @@ You can add an impage that has been uploaded to the repository in a /docs/assets
 
 <img src="https://github.com/jAlbright02/Digital_Rain_Cpp/blob/main/docs/assets/images/image.png" width="500" height="500">
 
-![Dog](/docs/assets/image.png)
+![Dog](/docs/assets/images/image.png)
