@@ -1,0 +1,9 @@
+# Site settings
+title: Digital Rain Modern C++ Project Blog
+author:
+  name: James Albright
+  email: G00379271@atu.ie
+description: "A blog."
+
+# Build settings
+remote_theme: jekyll/minima
