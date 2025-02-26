@@ -16,6 +16,6 @@ A bullet list:
 
 You can add an impage that has been uploaded to the repository in a /docs/assets/images folder.
 
-<img src="https://github.com/jAlbright02/Digital_Rain_Cpp/blob/main/docs/assets/images/image.png" width="500" height="500">
+<img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/blob/main/docs/assets/images/image.png" width="500" height="500">
 
 ![Dog](/docs/assets/images/image.png)
