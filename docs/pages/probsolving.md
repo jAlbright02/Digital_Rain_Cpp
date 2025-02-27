@@ -1,5 +1,7 @@
 # Problem Solving
 
+[Home](/index.md)
+
 ## Old Iterations
 First attempt consisted of getting single characters to ‘rain’ down. All done in a single main.cpp file. 
 Hard to read, stuttered printing and overall just messy.
