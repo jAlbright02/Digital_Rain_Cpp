@@ -8,13 +8,15 @@ In this project, the rain streams consists of multiple "raindrops" made of rando
 The goal of this blog is to walk through the process of creating this digital rain effect, detailing the steps to take it from project brief to built using the C++ programming language.
 
 ## Design & Test
-
-
+[The Design and Testing of this project](/docs/pages/desTest.md)
 
 ## Algorithm
+[Algorithms used in this project](/docs/pages/algo.md)
 
 ## Problem Solving
 
 [Problem Solving involved in this project](/docs/pages/probsolving.md)
 
 ## Project Insight & Reflection
+
+Reflection...
