@@ -23,7 +23,49 @@ Here I've attached my diagram
 
 <img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/main/docs/assets/images/umlDiag.png" > 
 
-_Explanation of uml_
+### Attributes:
+``x_pos (type: int)`` -> Represents the x position of the rain.
+
+``y_pos (type: int)`` -> Represents the y position of the rain.
+
+``rainLength (type: int)`` -> Represents the length of the rain.
+
+``chars (type: std::vector<char>)`` -> A vector of characters representing the set of characters that can be used to display the rain.
+
+### Methods:
+#### Constructors:
+
+``Rain()`` ->  Default constructor (initialises attributes with default values from initRain()).
+
+``Rain(int, int, int, char)`` -> Constructor that takes four parameters: x and y positions, rain length, and a charset for the rain.
+
+``Rain(int, int, int)`` -> Constructor that takes x and y positions and the rain length.
+
+``Rain(int, int)`` -> Constructor that takes x and y positions.
+
+``Rain(int)`` -> Constructor that takes just the rain length.
+
+``Rain(char)`` -> Constructor that takes a single character (likely for charset).
+
+#### Destructor:
+
+``~Rain()`` -> Destructor, which likely cleans up the class when it is no longer needed.
+
+### Helper Methods:
+
+``updateRain()`` -> Updates the state of the rain, moving the rain down.
+
+``resetRain()`` -> Resets the rain, re-initialises the object.
+
+``isOffScreen()`` -> Checks whether the rain has gone off the screen.
+
+``getXPos() getYPos() getRainLength()`` -> Getters that return the x and y positions, as well as the length of the rain.
+
+``getChars()`` -> Returns the vector of characters (likely the charset used for rain).
+
+Private Methods:
+
+``initRain()`` -> Likely a helper method to initialize or set up the rain's properties (though not fully visible in the code provided).
 
 This is what I used to keep myself focused during the next iteration of development.
 
