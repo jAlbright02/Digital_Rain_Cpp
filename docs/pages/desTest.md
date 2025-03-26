@@ -17,12 +17,20 @@ You can see this is absolutely not ideal, it has inspiration for how a basic CRU
 
 When it came time to refactor, because I knew it was absolutely necessary to use a class with functions and variables, I had to do a lot of work to get it working. Probably ended up having to do more than if i had started out with this design.
 
-Because it was dififcult to just 'do' this refactor, I made a process flow diagram to give myself more structure and so I didn't get lost in all of the redesigning.
+Because it was dififcult to just 'do' this refactor, I made a UML (Unified Modeling Language) Class diagram to give myself more structure and so I didn't get lost in all of the redesigning.
 
 Here I've attached my diagram
 
-<img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/main/docs/assets/images/flowDiag.png" >
+<img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/main/docs/assets/images/umlDiag.png" > 
 
- - Explanation of code - 
+_Explanation of uml_
 
-This is what I used to keep myself focused during development.
+This is what I used to keep myself focused during the next iteration of development.
+
+# Fix and Implementation
+
+### Why classes are better
+
+blah blah blah
+
+### New Design
