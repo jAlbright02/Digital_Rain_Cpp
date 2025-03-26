@@ -19,16 +19,15 @@ The goal of this blog is to walk through the process of creating this digital ra
 
 ## Project Insight & Reflection
 
-### So what have I learned?
-#### A lot, actually.
-(reference labs/lectures here that were included in the project)
-
 ### Did I enjoy doing this project?
 #### Yes.
 
 ### What will I take from this?
 #### Good practices and a good base to continue on with C++.
-This [website](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) was a big help while trying to keep my code clean and correct. As well, I referenced back to labs done within the class as it was often similar to what I needed to add into this project - I did this heavily at the start as the documentation was a lot to try and sift through.
+This [website](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) was a big help while trying to keep my code clean and correct. As well, I referenced back to labs done within the class as it was often similar to what I needed to add into this project - I did this heavily at the start as the documentation was a lot (daunting even) to try and sift through. 
+
+#### New language to develop in
+Thanks to this project (and the C++ Programming module as a whole) I feel confident in beginning to develop personal projects in this that I may have felt avoidant of before. A lot of [game development uses C++](https://www.codecademy.com/resources/blog/programming-languages-for-game-development/) and one of the [most popular engines](https://dev.epicgames.com/documentation/en-us/unreal-engine/programming-with-cplusplus-in-unreal-engine) for game dev heavily relies on it. Without the practical labs that explained the very basics, which gave me a good foundation, to work on this project I don't think I'd have been too pushed on learning this language. Parts of this project like how the class is structured, and used, was from how the Programmer/Matrix labs which we have done over the last 10 weeks. 
 
 ### Overall
 I had fun and frustration with this, I got to make something that felt more like a personal project than a very strict brief that had to be followed. Even writing this blog, it was definitely my least favourite part but now I can potentially add GitHub pages to other projects which is better than just a sole ReadMe full of plaintext.
