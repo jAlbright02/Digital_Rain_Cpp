@@ -73,4 +73,13 @@ This is what I used to keep myself focused during the next iteration of developm
 
 ### New Design
 
+So after integrating this class, I looked through my other files to see if I could do the same. It ended up not being necessary, with one being entirely full of helper functions for things like the randomness of the Rain object values, and another designed to ``clearOldRain`` - replace the last first value with ``' '`` and ``displayRain`` - get the latest y position of the 'rainfall' and insert a random character there.   
+
 ### Multiparadigm Approach
+
+#### What is Mutliparadigm Programming
+["Multiparadigm programming languages ​​are those that allow different programming styles to be used in the same language. This means that a programmer can choose the most suitable approach to solve a specific problem, be it structured programming, object oriented or functional, among others."](https://tecnobits.com/en/What-is-a-multiparadigm-programming-language%3F/)
+
+C++ is a multiparadigmed language, meaning I can use OOP (Object Oriented Programming) style, [procedural](https://hackr.io/blog/procedural-programming) or functional if I wanted to. I do use mainly 2 throughout this project. OOP is how my class is based with private variables, getters, public methods, constructors/destructors... The procedural aspect is how the program runs, which is in a while loop where a set of instructions are followed step by step.
+
+I decided to not go down the route of overdesigning and making everything OOP, it was best to leave what works, working. The most important object got converted from a struct to a proper class and in my opinion (once I designed my UML diagram) which lead to cleaner code. Doing it for everything would ahve been extremely time consuming and convoluted. Simpler, sometimes, is better.
