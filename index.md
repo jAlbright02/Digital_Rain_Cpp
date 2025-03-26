@@ -21,7 +21,7 @@ The goal of this blog is to walk through the process of creating this digital ra
 
 ### Did I enjoy doing this project?
 #### Yes.
-I got to developed an application that wasn't just another CRUD style piece, as many other modules may do so. It was allowed to be as difficult as I wanted it to be, provided the rubric was adhered to with essentials like code style, structure, this blog, etc.
+I got to develop an application that wasn't just another CRUD style piece, as many other modules may do so. It was allowed to be as difficult as I wanted it to be, provided the rubric was adhered to with essentials like code style, structure, this blog, etc.
 
 I do wish this wasn't a 4<sup>th</sup> year module as I found myself taking away time I would have spent on this, to go work on my final year project. Other than that it was something different and I appreaciated that.
 
