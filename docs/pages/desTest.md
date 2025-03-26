@@ -1,4 +1,7 @@
 # Initial Design
+
+[Home](/index.md)
+
 The initial design I went with for this project was a simple struct and function based system. I decided to start this way as I believed it promoted rapid prototyping and it was easier to manage in the beginning.
 Which is true, it was easier to get logic working with a loosely based system. I had a neat running project in a few days of iteration.
 
