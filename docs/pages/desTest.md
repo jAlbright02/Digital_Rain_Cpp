@@ -71,8 +71,6 @@ This is what I used to keep myself focused during the next iteration of developm
 
 # Fix and Implementation
 
-### Why classes are better
-
-blah blah blah
-
 ### New Design
+
+### Multiparadigm Approach
