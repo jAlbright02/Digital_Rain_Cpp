@@ -26,7 +26,7 @@ I got to developed an application that wasn't just another CRUD style piece, as 
 I do wish this wasn't a 4<sup>th</sup> year module as I found myself taking away time I would have spent on this, to go work on my final year project. Other than that it was something different and I appreaciated that.
 
 ### What will I take from this?
-#### Good practices and a good base to continue on with C++.
+#### Good practices and a good base to continue on with C++
 This [website](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) was a big help while trying to keep my code clean and correct. As well, I referenced back to labs done within the class as it was often similar to what I needed to add into this project - I did this heavily at the start as the documentation was a lot (daunting even) to try and sift through. 
 
 #### New language to develop in
