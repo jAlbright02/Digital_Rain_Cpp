@@ -1,4 +1,7 @@
 # Algorithms
+
+[Home](/index.md)
+
 This is my main algorithm, it calls on the Rain class and the Utils/Display files.
 
 First we set the text colour in the terminal, then hide the cursor so the printing looks smoother without a white line blipping around.
