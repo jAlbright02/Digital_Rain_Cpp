@@ -12,6 +12,8 @@ Second attempt included breaking this out into sections, the code remained mainl
 
 <img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/main/docs/assets/images/fileStruct.png" width="200" height="200">
 
-Third attempt resulted in using universally preferred methods of randomization, arrays of (random) characters being printed and the use of more windows functions such as changing color and hiding the cursor. File structure stayed the same and as a result a class has not yet been implemented, a struct and multiple files defining functions are what runs the project currently.
+Third attempt resulted in using universally preferred methods of randomisation, arrays of (random) characters being printed and the use of more windows functions such as changing color and hiding the cursor. File structure stayed the same and as a result a class has not yet been implemented, a struct and multiple files defining functions are what runs the project currently.
 
 <img src="https://raw.githubusercontent.com/jAlbright02/Digital_Rain_Cpp/main/docs/assets/images/fourthItrOutput.png" width="400" height="200">
+
+The image above reflects how the code runs now but with a much better design, utilising a class to maintain the 'Rain' objects that are displayed. 
